@@ -20,4 +20,4 @@
 
 
 ### Preuve par induction 
-![image0.png](image0.png)
+![image0.jpg](image0.jpg)
